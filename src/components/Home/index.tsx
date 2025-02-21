@@ -1,0 +1,8 @@
+export { CTA } from './CTA'
+export { FAQ } from './FAQ'
+export { Feature } from './Feature'
+export { Hero } from './Hero'
+export { MarqueeLogos } from './MarqueeLogos'
+export { Pricing } from './Pricing'
+export { SocialProof } from './SocialProof'
+export { Testimonial } from './Testimonial'

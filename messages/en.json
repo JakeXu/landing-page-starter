@@ -1,0 +1,121 @@
+{
+  "SiteConfig": {
+    "title": "Landing Page Boilerplate",
+    "description": "Discover our free, open-source, and feature-rich landing page template, designed to cater to a wide range of projects. Whether you're a startup, an individual developer, or a large team, our template enables you to create a professional and eye-catching landing page in less than an hour. With no complex coding required, it's easy to get started and instantly enhance your project's presentation.",
+    "Features": "Features",
+    "Pricing": "Pricing",
+    "Testimonials": "Testimonials",
+    "FAQ": "FAQ"
+  },
+  "Hero": {
+    "label": "Ship <landing>Landing Page</landing> Fast",
+    "button": "Get Boilerplate"
+  },
+  "SocialProof": {
+    "label": "makers ship fast"
+  },
+  "Features": {
+    "label": "Features",
+    "github": {
+      "title": "Open Source Advantage",
+      "description": "Completely free with a wealth of customization options."
+    },
+    "responsive": {
+      "title": "Responsive Design",
+      "description": "Templates are meticulously designed to ensure optimal display on any device."
+    },
+    "i18n": {
+      "title": "Globalization Support",
+      "description": "Supports multiple languages, making your website attractive to a global audience."
+    },
+    "seo": {
+      "title": "SEO Optimized",
+      "description": "Templates built with search engine optimization in mind to enhance your website's discoverability."
+    },
+    "custom": {
+      "title": "Easy Customization",
+      "description": "Effortlessly change colors, fonts, and layouts without any coding knowledge."
+    },
+    "deploy": {
+      "title": "One-Click Deployment",
+      "description": "Tightly integrated with leading web hosting services for instant website publishing."
+    }
+  },
+  "Pricing": {
+    "label": "Pricing",
+    "title": "Get unlimited access.",
+    "description": "The page you are currently viewing is an open-source, free boilerplate.",
+    "doYouLike": "Do you like this landing page boilerplate?",
+    "follow": "Follow my Twitter.",
+    "free": {
+      "title": "Open-Source / Free",
+      "description": "Freely clone the landing page boilerplate from the GitHub repository.",
+      "features": {
+        "Free": "Free",
+        "Access to full codes": "Access to full codes",
+        "Secondary development": "Secondary development",
+        "MIT License": "MIT License"
+      },
+      "price": "Free",
+      "buttonText": "Get Started"
+    },
+    "customize": {
+      "title": "Customize",
+      "description": "Pay to customize an exclusive landing page.",
+      "features": {
+        "Access to full code": "Access to full code",
+        "Secondary development": "Secondary development",
+        "Exclusive style": "Exclusive style",
+        "One-on-one service": "One-on-one service",
+        "More exquisite pages": "More exquisite pages"
+      },
+      "price": "$188",
+      "buttonText": "Contact Us"
+    }
+  },
+  "Testimonials": {
+    "label": "Testimonials",
+    "description": "If you use this landing page template and recommend it on your Twitter, <x>please let me know</x>. I will display your tweet and recommendation here.",
+    "Author": "As a front-end developer, I am very satisfied with this landing page template. Editing text and images is very intuitive, and I did not encounter any technical obstacles throughout the process. The responsive design of this template is also excellent; the page layout can adapt perfectly whether it is on mobile or desktop devices. It only took me half a day to successfully launch the landing page of my own product, which greatly improved my efficiency.",
+    "User1": "As a designer turned developer, I was impressed by the aesthetics of this template. Not only is it easy to use, but the default design looks modern and professional. I made a few tweaks to the details to match my brand style, and the whole process was easy and enjoyable.",
+    "User2": "This template gave me a new appreciation for coding. As a backend developer without much frontend experience, I found this template to be very user-friendly. I was able to build a professional landing page with barely any coding. Not only did this save me time, it also sparked my interest in frontend development.",
+    "User3": "此模板的交互元素为我的项目增添了许多乐趣。我特别喜欢动画和过渡效果的设置，它们让浏览体验更加丰富和动感。调整这些交互元素非常简单，不需要深厚的前端知识，这对于像我这样的非专业前端开发人员来说非常方便。",
+    "User4": "此模板在多语言支持方面表现非常出色，这对我的国际项目至关重要。我能够轻松添加不同的语言版本，并且该模板确保了不同语言的布局和设计的一致性。这大大减少了我在本地化过程中的工作量，并帮助我更快地接触到全球用户。",
+    "User5": "The interactive elements of this template add a lot of fun to my project. I especially like the settings of animations and transition effects, which make the browsing experience richer and more dynamic. Adjusting these interactive elements is very simple and does not require deep front-end knowledge, which is very convenient for non-professional front-end developers like me.",
+    "User6": "This template performs very well in terms of multilingual support, which is crucial for my international projects. I was able to add different language versions easily, and the template ensured consistency in layout and design across languages. This significantly reduced my workload during the localization process and helped me reach global users faster.",
+    "User7": "This template performs very well, has very fast loading times, and is SEO friendly. As a developer who focuses on product optimization, I really appreciate the high performance and optimization of this template. With simple modifications, I was able to further optimize my landing page and increase the speed at which users access it. The SEO friendliness of the template also helped my page to get better rankings in search engines."
+  },
+  "FAQs": {
+    "label": "FAQs",
+    "description": "Here are some of the most frequently asked questions.",
+    "question1": "What is a landing page?",
+    "answer1": "A landing page is a standalone web page created specifically for a marketing or advertising campaign. It's where a visitor 'lands' after they click on a link in an email, or ads from Google, Bing, YouTube, Facebook, Instagram, Twitter, or similar places on the web. Unlike web pages, which typically have many goals and encourage exploration, landing pages are designed with a single focus or goal, known as a call to action (CTA).",
+    "question2": "How can I create a landing page?",
+    "answer2": "Creating a landing page can be done in several steps: 1) Choose a landing page template that fits your campaign's needs or start from scratch. 2) Identify your landing page's objective and CTA. 3) Write compelling content that urges visitors to take action. 4) Incorporate design elements such as images, videos, and forms that align with your message. 5) Test your page's usability and mobile responsiveness. 6) Use SEO best practices to help your page get found. 7) Publish your landing page and monitor its performance to make adjustments as needed.",
+    "question3": "Why is a landing page important?",
+    "answer3": "Landing pages are crucial for any marketing strategy because they provide a targeted platform for converting visitors into leads or customers. Unlike general websites, landing pages focus the visitor's attention on a single offer, minimizing distractions and guiding them toward a specific action. This focused approach can significantly increase the effectiveness of your marketing campaigns, improve your ad performance, and enhance the overall user experience by providing them with the information or solution they were seeking.",
+    "question4": "Why choose our landing page boilerplate?",
+    "answer4": "Our landing page template is free, open-source, and powerful, ideal for various projects and marketing campaigns. It allows you to create a landing page in under an hour, simplifying the development process while offering high customization and responsiveness.",
+    "question5": "What skills do I need to use this template?",
+    "answer5": "To use our landing page template, you only need basic web editing skills. The design of the template is intended to be easy for non-technical users to get started with, while also providing high customizability for experienced developers.",
+    "question6": "How do I get started with the landing page template?",
+    "answer6": "Getting started is very simple. Just download the source code from our GitHub repository, edit the text and images as needed, and then deploy it to your server.",
+    "question7": "Does the landing page template support responsive design?",
+    "answer7": "Yes, our landing page template supports responsive design, ensuring that your webpage displays perfectly on a variety of devices, whether desktop, tablet, or smartphone.",
+    "question8": "Can I use this template for a commercial project?",
+    "answer8": "Absolutely. Our template is open-source, and you can use it for any type of project, including commercial purposes. We encourage users to utilize this template to create and optimize their online projects.",
+    "question9": "Do you offer any customization services?",
+    "answer9": "We accept paid custom development of landing pages. Please contact us via email at pinnasky@gmail.com or Twitter @pinnasky.",
+    "question10": "Are there any restrictions on using this template?",
+    "answer10": "No. You are free to use and modify this template. At the same time, we encourage developers to submit PRs to help improve this landing page template together.",
+    "question11": "Does this template include SEO optimization features?",
+    "answer11": "Yes, our template includes basic SEO optimization features to help your webpage achieve better rankings in search engines.",
+    "question12": "What should I do if I encounter problems using the template?",
+    "answer12": "If you encounter any issues while using the template, please contact us via Twitter @pinnasky."
+  },
+  "CTA": {
+    "label": "Build Your Landing Page Now",
+    "description": "<build>Build</build> your landing page, <show>show</show> your product, and <start>start earning</start>!",
+    "button": "Get Boilerplate"
+  }
+}

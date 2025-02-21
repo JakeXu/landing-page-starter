@@ -1,0 +1,122 @@
+{
+  "SiteConfig": {
+    "title": "Plantilla de Página de Aterrizaje",
+    "description": "Descubre nuestra plantilla de página de aterrizaje gratuita, de código abierto y rica en funciones, diseñada para adaptarse a una amplia variedad de proyectos. Ya seas una startup, un desarrollador individual o un equipo grande, nuestra plantilla te permite crear una página de aterrizaje profesional y atractiva en menos de una hora. No se necesita codificación compleja, es fácil comenzar y mejorar instantáneamente la presentación de tu proyecto.",
+    "Features": "Características",
+    "Pricing": "Precios",
+    "Testimonials": "Testimonios",
+    "FAQ": "Preguntas Frecuentes"
+  },
+  "Hero": {
+    "label": "Lanza tu <landing>Página de Aterrizaje</landing> Rápido",
+    "button": "Obtener Plantilla"
+  },
+  "SocialProof": {
+    "label": "los creadores lanzan rápido"
+  },
+  "Features": {
+    "label": "Características",
+    "github": {
+      "title": "Ventaja de Código Abierto",
+      "description": "Totalmente gratuito con una gran cantidad de opciones de personalización."
+    },
+    "responsive": {
+      "title": "Diseño Responsivo",
+      "description": "Las plantillas están cuidadosamente diseñadas para garantizar una visualización óptima en cualquier dispositivo."
+    },
+    "i18n": {
+      "title": "Soporte para Globalización",
+      "description": "Soporta múltiples idiomas, haciendo tu sitio web atractivo para una audiencia global."
+    },
+    "seo": {
+      "title": "Optimización SEO",
+      "description": "Las plantillas están construidas pensando en la optimización de motores de búsqueda para mejorar la visibilidad de tu sitio."
+    },
+    "custom": {
+      "title": "Personalización Fácil",
+      "description": "Cambia colores, fuentes y diseños sin necesidad de conocimientos de codificación."
+    },
+    "deploy": {
+      "title": "Despliegue con un Solo Clic",
+      "description": "Totalmente integrado con los principales servicios de alojamiento web para publicar tu sitio web de inmediato."
+    }
+  },
+  "Pricing": {
+    "label": "Precios",
+    "title": "Obtén acceso ilimitado.",
+    "description": "La página que estás viendo actualmente es una plantilla de página de aterrizaje de código abierto y gratuita.",
+    "doYouLike": "¿Te gusta esta plantilla de página de aterrizaje?",
+    "follow": "Sígueme en Twitter.",
+    "free": {
+      "title": "Código Abierto / Gratuito",
+      "description": "Clona la plantilla de página de aterrizaje desde el repositorio de GitHub de forma gratuita.",
+      "features": {
+        "Free": "Gratis",
+        "Access to full codes": "Acceso a los códigos completos",
+        "Secondary development": "Desarrollo secundario",
+        "MIT License": "Licencia MIT"
+      },
+      "price": "Gratis",
+      "buttonText": "Comienza Ahora"
+    },
+    "customize": {
+      "title": "Personalizar",
+      "description": "Paga para personalizar una página de aterrizaje exclusiva.",
+      "features": {
+        "Access to full code": "Acceso al código completo",
+        "Secondary development": "Desarrollo secundario",
+        "Exclusive style": "Estilo exclusivo",
+        "One-on-one service": "Servicio uno a uno",
+        "More exquisite pages": "Páginas más exquisitas"
+      },
+      "price": "$188",
+      "buttonText": "Contáctanos"
+    }
+  },
+  "Testimonials": {
+    "label": "Testimonios",
+    "description": "Si usas esta plantilla de página de aterrizaje y la recomiendas en Twitter, <x>avísame</x> y mostraré tu tweet y recomendación aquí.",
+    "Author": "Como desarrollador front-end, estoy muy satisfecho con esta plantilla de página de aterrizaje. Editar el texto y las imágenes fue muy intuitivo y no encontré obstáculos técnicos durante el proceso. Además, el diseño responsivo de esta plantilla es excelente, el layout se adapta perfectamente tanto en dispositivos móviles como en escritorio. En solo medio día pude lanzar con éxito la página de aterrizaje de mi producto, lo que mejoró significativamente mi eficiencia.",
+    "User1": "Como diseñador que se convirtió en desarrollador, me impresionó la estética de esta plantilla. No solo es fácil de usar, sino que el diseño predeterminado también es moderno y profesional. Hice algunos ajustes para que coincidiera con el estilo de mi marca, y todo el proceso fue fácil y agradable.",
+    "User2": "Esta plantilla me dio una nueva apreciación por la codificación. Como desarrollador back-end sin mucha experiencia en front-end, encontré que esta plantilla era muy fácil de usar. Pude construir una página de aterrizaje profesional sin necesidad de mucha codificación. Esto no solo me ahorró tiempo, sino que también despertó mi interés por el desarrollo front-end.",
+    "User3": "Los elementos interactivos de esta plantilla añadieron mucha diversión a mi proyecto. Me gustaron especialmente los efectos de animación y transición, que hicieron que la experiencia de navegación fuera más rica y dinámica. Ajustar estos elementos interactivos fue muy fácil y no requirió conocimientos profundos de front-end, lo cual es muy conveniente para desarrolladores no profesionales como yo.",
+    "User4": "Esta plantilla tiene un rendimiento excelente en términos de soporte multilingüe, lo cual es crucial para mi proyecto internacional. Pude agregar fácilmente diferentes versiones en varios idiomas, y la plantilla asegura la coherencia en el diseño y layout en cada idioma. Esto redujo considerablemente mi carga de trabajo durante el proceso de localización y me permitió llegar más rápido a una audiencia global.",
+    "User5": "Los elementos interactivos de esta plantilla añadieron mucha diversión a mi proyecto. Me gustaron especialmente los efectos de animación y transición, que hicieron que la experiencia de navegación fuera más rica y dinámica. Ajustar estos elementos interactivos fue muy fácil y no requirió conocimientos profundos de front-end, lo cual es muy conveniente para desarrolladores no profesionales como yo.",
+    "User6": "Esta plantilla tiene un rendimiento excelente en términos de soporte multilingüe, lo cual es crucial para mi proyecto internacional. Pude agregar fácilmente diferentes versiones en varios idiomas, y la plantilla asegura la coherencia en el diseño y layout en cada idioma. Esto redujo considerablemente mi carga de trabajo durante el proceso de localización y me permitió llegar más rápido a una audiencia global.",
+    "User7": "Esta plantilla tiene un rendimiento excelente, tiempos de carga rápidos y es amigable con SEO. Como desarrollador enfocado en optimización de productos, aprecio mucho el alto rendimiento y la optimización de esta plantilla. Con algunas modificaciones simples, pude optimizar aún más mi página de aterrizaje y aumentar la velocidad de acceso para los usuarios. La optimización SEO también ayudó a que mi página obtuviera mejores posiciones en los motores de búsqueda.",
+    "User8": "Esta plantilla tiene un rendimiento excelente, tiempos de carga rápidos y es amigable con SEO. Como desarrollador enfocado en optimización de productos, aprecio mucho el alto rendimiento y la optimización de esta plantilla. Con algunas modificaciones simples, pude optimizar aún más mi página de aterrizaje y aumentar la velocidad de acceso para los usuarios. La optimización SEO también ayudó a que mi página obtuviera mejores posiciones en los motores de búsqueda."
+  },
+  "FAQs": {
+    "label": "Preguntas Frecuentes",
+    "description": "Aquí están algunas de las preguntas más frecuentes.",
+    "question1": "¿Qué es una página de aterrizaje?",
+    "answer1": "Una página de aterrizaje es una página web independiente creada específicamente para una campaña de marketing o publicidad. Es el lugar donde un visitante 'aterriza' después de hacer clic en un enlace en un correo electrónico o anuncios de Google, Bing, YouTube, Facebook, Instagram, Twitter, o lugares similares en la web. A diferencia de las páginas web, que generalmente tienen muchos objetivos y fomentan la exploración, las páginas de aterrizaje están diseñadas con un solo enfoque o meta, conocido como una llamada a la acción (CTA).",
+    "question2": "¿Cómo puedo crear una página de aterrizaje?",
+    "answer2": "Crear una página de aterrizaje se puede hacer en varios pasos: 1) Elige una plantilla de página de aterrizaje que se ajuste a las necesidades de tu campaña o empieza desde cero. 2) Identifica el objetivo y la CTA de tu página de aterrizaje. 3) Escribe contenido persuasivo que motive a los visitantes a tomar acción. 4) Incorpora elementos de diseño como imágenes, videos y formularios que se alineen con tu mensaje. 5) Prueba la usabilidad de la página y su compatibilidad con dispositivos móviles. 6) Usa las mejores prácticas de SEO para ayudar a que tu página sea descubierta. 7) Publica tu página de aterrizaje y monitorea su desempeño para hacer ajustes según sea necesario.",
+    "question3": "¿Por qué es importante una página de aterrizaje?",
+    "answer3": "Las páginas de aterrizaje son cruciales para cualquier estrategia de marketing porque proporcionan una plataforma focalizada para convertir a los visitantes en prospectos o clientes. A diferencia de los sitios web generales, las páginas de aterrizaje enfocan la atención del visitante en una sola oferta, minimizando distracciones y guiándolos a tomar una acción específica. Esta aproximación enfocada puede aumentar significativamente la efectividad de tus campañas de marketing, mejorar el rendimiento de los anuncios y mejorar la experiencia del usuario al proporcionarles la información o solución que buscaban.",
+    "question4": "¿Por qué elegir nuestra plantilla de página de aterrizaje?",
+    "answer4": "Nuestra plantilla de página de aterrizaje es gratuita, de código abierto y poderosa, ideal para una amplia variedad de proyectos y campañas de marketing. Te permite crear una página de aterrizaje en menos de una hora, simplificando el proceso de desarrollo mientras ofrece alta personalización y soporte responsivo.",
+    "question5": "¿Qué habilidades necesito para usar esta plantilla?",
+    "answer5": "Para usar nuestra plantilla de página de aterrizaje, solo necesitas habilidades básicas de edición web. El diseño de la plantilla está hecho para ser fácil de usar para personas sin conocimientos técnicos, y también ofrece una gran capacidad de personalización para desarrolladores experimentados.",
+    "question6": "¿Cómo empiezo con la plantilla de página de aterrizaje?",
+    "answer6": "Comenzar es muy sencillo. Solo descarga el código fuente desde nuestro repositorio de GitHub, edita el texto y las imágenes según sea necesario, y luego publícalo en tu servidor.",
+    "question7": "¿La plantilla soporta diseño responsivo?",
+    "answer7": "Sí, nuestra plantilla soporta diseño responsivo, asegurando que tu página se vea perfectamente en una variedad de dispositivos, ya sea en escritorio, tablet o móvil.",
+    "question8": "¿Puedo usar esta plantilla para un proyecto comercial?",
+    "answer8": "Sí, por supuesto. Nuestra plantilla es de código abierto y puedes usarla para cualquier tipo de proyecto, incluyendo comerciales. Te animamos a que utilices esta plantilla para crear y optimizar tus proyectos en línea.",
+    "question9": "¿Ofrecen servicios de personalización?",
+    "answer9": "Aceptamos desarrollo personalizado de páginas de aterrizaje por pago. Por favor, contáctanos por correo electrónico a pinnasky@gmail.com o por Twitter @pinnasky.",
+    "question10": "¿Existen restricciones para usar esta plantilla?",
+    "answer10": "No. Puedes usar y modificar la plantilla libremente. Animamos a los desarrolladores a enviar PRs para mejorar esta plantilla de página de aterrizaje.",
+    "question11": "¿Esta plantilla incluye características de SEO?",
+    "answer11": "Sí, nuestra plantilla incluye algunas características básicas de optimización SEO para ayudar a que tu página obtenga mejores posiciones en los motores de búsqueda.",
+    "question12": "¿Qué hago si tengo problemas usando la plantilla?",
+    "answer12": "Si encuentras algún problema al usar la plantilla, por favor contáctanos por Twitter @pinnasky."
+  },
+  "CTA": {
+    "label": "Crea tu Página de Aterrizaje Ahora",
+    "description": "<build>Crea</build> tu página de aterrizaje, <show>muestra</show> tu producto y <start>comienza a ganar</start>!",
+    "button": "Obtener Plantilla"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "SiteConfig": {
+    "title": "落地页模板",
+    "description": "探索我们免费、开源且功能强大的登陆页面样板，专为多样化项目量身打造。无论您是初创企业、个人开发者还是大型团队，我们的样板都能帮助您在不到一小时的时间内，快速构建出专业且吸引眼球的登陆页面。无需复杂编码，轻松上手，立即提升您的项目展示效果。",
+    "Features": "特点",
+    "Pricing": "定价",
+    "Testimonials": "评价",
+    "FAQ": "常问问题"
+  },
+  "Hero": {
+    "label": "快速构建<landing>落地页</landing>",
+    "button": "获取模板"
+  },
+  "SocialProof": {
+    "label": "制作者快速开发"
+  },
+  "Features": {
+    "label": "特点",
+    "github": {
+      "title": "开源优势",
+      "description": "完全免费，并具有丰富的自定义选项。"
+    },
+    "responsive": {
+      "title": "响应式设计",
+      "description": "模板经过精心设计，确保在任何设备上实现最佳显示。"
+    },
+    "i18n": {
+      "title": "全球化支持",
+      "description": "支持多种语言，让您的网站对全球受众具有吸引力。"
+    },
+    "seo": {
+      "title": "SEO优化",
+      "description": "模板构建时考虑了搜索引擎优化，以提高您网站的可发现性。"
+    },
+    "custom": {
+      "title": "轻松定制",
+      "description": "无需任何编码知识即可轻松更改颜色、字体和布局。"
+    },
+    "deploy": {
+      "title": "一键部署",
+      "description": "与领先的网络托管服务紧密集成，可即时发布网站。"
+    }
+  },
+  "Pricing": {
+    "label": "定价",
+    "title": "获得无限制访问权限。",
+    "description": "您当前正在查看的页面是开源的、免费的样板。",
+    "doYouLike": "您喜欢这个落地页模板吗？",
+    "follow": "关注我的Twitter。",
+    "free": {
+      "title": "开源/免费",
+      "description": "从 GitHub 存储库自由克隆落地页模板。",
+      "features": {
+        "Free": "免费",
+        "Access to full codes": "访问完整代码",
+        "Secondary development": "二次开发",
+        "MIT License": "MIT许可证"
+      },
+      "price": "免费",
+      "buttonText": "立即开始"
+    },
+    "customize": {
+      "title": "定制",
+      "description": "付费定制专属落地页。",
+      "features": {
+        "Access to full code": "访问完整代码",
+        "Secondary development": "二次开发",
+        "Exclusive style": "专属风格",
+        "One-on-one service": "一对一服务",
+        "More exquisite pages": "更多精美页面"
+      },
+      "price": "$188",
+      "buttonText": "联系我们"
+    }
+  },
+  "Testimonials": {
+    "label": "评价",
+    "description": "如果您使用此着陆页模板并在Twitter上推荐它，<x>请告诉我</x>。我会在这里显示您的推文和推荐。",
+    "Author": "As a front-end developer, I am very satisfied with this landing page template. Editing text and images is very intuitive, and I did not encounter any technical obstacles throughout the process. The responsive design of this template is also excellent; the page layout can adapt perfectly whether it is on mobile or desktop devices. It only took me half a day to successfully launch the landing page of my own product, which greatly improved my efficiency.",
+    "User1": "As a designer turned developer, I was impressed by the aesthetics of this template. Not only is it easy to use, but the default design looks modern and professional. I made a few tweaks to the details to match my brand style, and the whole process was easy and enjoyable.",
+    "User2": "This template gave me a new appreciation for coding. As a backend developer without much frontend experience, I found this template to be very user-friendly. I was able to build a professional landing page with barely any coding. Not only did this save me time, it also sparked my interest in frontend development.",
+    "User3": "此模板的交互元素为我的项目增添了许多乐趣。我特别喜欢动画和过渡效果的设置，它们让浏览体验更加丰富和动感。调整这些交互元素非常简单，不需要深厚的前端知识，这对于像我这样的非专业前端开发人员来说非常方便。",
+    "User4": "此模板在多语言支持方面表现非常出色，这对我的国际项目至关重要。我能够轻松添加不同的语言版本，并且该模板确保了不同语言的布局和设计的一致性。这大大减少了我在本地化过程中的工作量，并帮助我更快地接触到全球用户。",
+    "User5": "The interactive elements of this template add a lot of fun to my project. I especially like the settings of animations and transition effects, which make the browsing experience richer and more dynamic. Adjusting these interactive elements is very simple and does not require deep front-end knowledge, which is very convenient for non-professional front-end developers like me.",
+    "User6": "This template performs very well in terms of multilingual support, which is crucial for my international projects. I was able to add different language versions easily, and the template ensured consistency in layout and design across languages. This significantly reduced my workload during the localization process and helped me reach global users faster.",
+    "User7": "This template performs very well, has very fast loading times, and is SEO friendly. As a developer who focuses on product optimization, I really appreciate the high performance and optimization of this template. With simple modifications, I was able to further optimize my landing page and increase the speed at which users access it. The SEO friendliness of the template also helped my page to get better rankings in search engines."
+  },
+  "FAQs": {
+    "label": "常问问题",
+    "description": "以下是一些最常见的问题。",
+    "question1": "什么是落地页？",
+    "answer1": "落地页是专为营销或广告活动创建的独立网页。访问者点击电子邮件中的链接或 Google、Bing、YouTube、Facebook、Instagram、Twitter 或网络上类似地方的广告后，就会“着陆”到着陆页。与通常具有多个目标并鼓励探索的网页不同，着陆页的设计重点或目标只有一个，即号召性用语 (CTA)。",
+    "question2": "如何创建落地页？",
+    "answer2": "创建落地页可分为几个步骤：1) 选择适合您的广告活动需求的落地页模板或从头开始。2) 确定落地页的目标和 CTA。3) 撰写引人入胜的内容，敦促访问者采取行动。4) 融入与您的信息相符的设计元素，例如图片、视频和表格。5) 测试页面的可用性和移动响应能力。6) 使用SEO最佳实践来帮助您的页面被找到。7) 发布落地页并监控其性能，以根据需要进行调整。",
+    "question3": "为什么落地页很重要？",
+    "answer3": "落地页对于任何营销策略都至关重要，因为它们提供了一个有针对性的平台，可以将访问者转化为潜在客户或客户。与一般网站不同，落地页将访问者的注意力集中在单一优惠上，最大限度地减少干扰并引导他们采取特定行动。这种专注的方法可以显著提高营销活动的有效性，改善广告效果，并通过向他们提供他们寻求的信息或解决方案来提升整体用户体验。",
+    "question4": "为什么选择我们的落地页模板？",
+    "answer4": "我们的落地页模板免费、开源且功能强大，非常适合各种项目和营销活动。它允许您在一小时内创建一个登陆页面，简化开发过程，同时提供高度的自定义和响应能力。",
+    "question5": "我需要什么技能才能使用此模板？",
+    "answer5": "要使用我们的落地页模板，您只需要基本的网页编辑技能。模板的设计旨在让非技术用户轻松上手，同时还为经验丰富的开发人员提供高度可定制性。",
+    "question6": "如何开始使用落地页模板？",
+    "answer6": "入门非常简单。只需从我们的GitHub存储库下载源代码，根据需要编辑文本和图像，然后将其部署到您的服务器即可。",
+    "question7": "落地页模板是否支持响应式设计？",
+    "answer7": "是的，我们的落地页模板支持响应式设计，确保您的网页能够在各种设备上完美显示，无论是台式机、平板电脑还是智能手机。",
+    "question8": "我可以将此模板用于商业项目吗？",
+    "answer8": "当然可以。我们的模板是开源的，您可以将其用于任何类型的项目，包括商业用途。我们鼓励用户利用此模板来创建和优化他们的在线项目。",
+    "question9": "你们提供任何定制服务吗？",
+    "answer9": "我们接受付费定制开发登陆页面。请通过电子邮件 pinnasky@gmail.com 或 Twitter @pinnasky 联系我们。",
+    "question10": "使用此模板有什么限制吗？",
+    "answer10": "没有，您可以自由使用和修改此模板。同时，我们鼓励开发者提交 PR，共同完善此落地页模板。",
+    "question11": "这个模板是否包含SEO优化功能？",
+    "answer11": "是的，我们的模板包含基本的SEO优化功能，以帮助您的网页在搜索引擎中获得更好的排名。",
+    "question12": "如果使用模板时遇到问题该怎么办？",
+    "answer12": "如果您在使用模板时遇到任何问题，请通过 Twitter @pinnasky 联系我们。"
+  },
+  "CTA": {
+    "label": "立即构建您的落地页",
+    "description": "<build>构建</build>您的落地页，<show>展示</show>您的产品，然后<start>开始赚钱</start>！",
+    "button": "获取模板"
+  }
+}
