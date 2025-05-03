@@ -39,7 +39,7 @@ export function LangSwitch() {
         const { icon, name } = localeNames[key]
 
         return (
-          <SelectItem className="cursor-pointer" key={key} value={key} startContent={icon}>
+          <SelectItem className="cursor-pointer" key={key} startContent={icon}>
             {name}
           </SelectItem>
         )

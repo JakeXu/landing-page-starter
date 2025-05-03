@@ -7,7 +7,7 @@ import { Analytics } from '@vercel/analytics/react'
 import type { Metadata } from 'next'
 import { Viewport } from 'next'
 import { NextIntlClientProvider } from 'next-intl'
-import { getMessages, getTranslations } from 'next-intl/server'
+import { getTranslations } from 'next-intl/server'
 import { Geist, Geist_Mono } from 'next/font/google'
 import { notFound } from 'next/navigation'
 import './globals.css'
@@ -61,15 +61,11 @@ export default async function RootLayout({
     notFound()
   }
 
-  // Providing all messages to the client
-  // side is the easiest way to get started
-  const messages = await getMessages()
-
   return (
     <html lang={locale} suppressHydrationWarning>
       <body className={cn('min-h-screen bg-background font-sans antialiased', geistSans.variable, geistMono.variable, 'antialiased')}>
         <ThemeProvider attribute="class" defaultTheme={siteConfig.nextThemeColor} enableSystem>
-          <NextIntlClientProvider messages={messages}>
+          <NextIntlClientProvider>
             <Header />
             <main className="flex flex-col items-center py-6">{children}</main>
             <Footer />
